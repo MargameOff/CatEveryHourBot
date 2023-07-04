@@ -2,7 +2,7 @@
 
 ![Mastodon profile](https://cdn.discordapp.com/attachments/539174132143620110/1125600667042582558/image.png)
 
-CatEveryHourBot est un bot Mastodon qui poste une photo de chat par heure.
+[CatEveryHourBot](https://piaille.fr/@CatEveryHour) est un bot Mastodon qui poste une photo de chat par heure.
 
 ## Prérequis
 
